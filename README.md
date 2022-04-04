@@ -8,6 +8,7 @@ Steve's parents want to invest in green energy and have already purchased stock 
 To run analysis on the data, Steve will need to click the "Run Analysis for All" button on the "All Stocks Analysis" worksheet within VBA_Challenge.xlsm and the output will show results for each of the 12 energy stocks in question. The first column provides the stock Ticker. To show Steve and his parents how actively each stock was traded, Total Daily Volume provides the sum of the daily volume for each stock for that year. Finally, Return shows the calculated yearly return of each stock. This column represents the increase or decrease in price from the beginning of the year to the end of the year. If the cell is red, it indicates that the investment shrunk and if the column is green, it indicates that the investment grew.
 
 ![All Stocks 2017](/Resources/All_Stocks_2017.png)
+
 *All Stocks 2017 Results*
 
 In 2017, nearly all of the green energy stocks showed a positive return, with the exception if TERP. The stock that grew the most was DQ at 199.4%. If Steve's parents had invested in 2017, they would have made a lot off of their investment.
